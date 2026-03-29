@@ -20,7 +20,7 @@ Também calcula o custo estimado com base em um valor fixo de kWh.
 
 ▶️ Como executar
     1. Clone o repositório:
-git clone https://github.com/seu-usuario/consumo-energia.git
+git clone https://github.com/MateusJFP/consumo-energia.git
     2. Acesse a pasta:
 cd consumo-energia
     3. Execute o programa:
